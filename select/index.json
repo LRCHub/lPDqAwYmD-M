@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "両成敗でいいじゃない",
+  "base_artist": "ゲスの極み乙女。",
+  "createdAt": "2026-02-23T10:10:00.861708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "両成敗でいいじゃない",
+      "artist": "Gesu no Kiwami Otome",
+      "has_synced": true,
+      "path": "select/01_両成敗でいいじゃない_Gesu_no_Kiwami_Otome.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "両成敗でいいじゃない",
+      "artist": "Gesu no Kiwami Otome",
+      "has_synced": true,
+      "path": "select/02_両成敗でいいじゃない_Gesu_no_Kiwami_Otome.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "両成敗でいいじゃない",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_両成敗でいいじゃない_ゲスの極み乙女。.txt"
+    }
+  ]
+}
